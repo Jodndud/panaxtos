@@ -4,7 +4,7 @@ import Header from '@/components/common/Header'
 import Footer from '@/components/common/Footer'
 
 export const metadata: Metadata = {
-  title: "PANAXTOS",
+  title: "뇌과학 1위 기업 파낙토스",
   description: "뇌과학 1위 기업 파낙토스",
 };
 
