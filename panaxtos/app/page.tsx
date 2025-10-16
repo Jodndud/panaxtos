@@ -1,5 +1,6 @@
 import LinkButtons from "@/components/home/LinkButtons";
 import BrainPD from "@/components/home/BrainPD";
+import Review from "@/components/home/Review";
 
 export default function Home() {
   return (
@@ -14,6 +15,9 @@ export default function Home() {
 
       {/* 파낙토스 PD */}
       <BrainPD />
+
+      {/* 후기 */}
+      <Review />
     </div>
   );
 }

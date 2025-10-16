@@ -16,7 +16,6 @@ export default function Footer(){
                         <li><Link href="#">네이버블로그</Link></li>
                     </ul>
                 </div>
-
                 <div className=""><Link href="/"><Image src="/logo.png" alt="logo" width={154} height={34} /></Link></div>
             </div>
         </div>
